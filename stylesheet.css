@@ -1,5 +1,6 @@
 nav {
 <<<<<<< HEAD
+<<<<<<< HEAD
     background-color: #343436;
 }
 
@@ -13,6 +14,8 @@ nav {
 .btn:active {
     background-color:dimgray;
 =======
+=======
+>>>>>>> origin/master
     background-color: #333399;
 }
 
@@ -26,6 +29,9 @@ nav {
 }
 .btn:active {
     //background-color:dimgray;
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 }
 
@@ -33,7 +39,13 @@ nav .left {
     //margin-left: 14%;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+.section {
+    color: silver;
+}
+>>>>>>> origin/master
 =======
 .section {
     color: silver;
@@ -45,16 +57,22 @@ nav .left {
 
 .section h5 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     border: solid silver;
     border-radius: 0.3em;
     background-color: silver;
     padding: 10px;
 =======
+=======
+>>>>>>> origin/master
     border: solid #3366CC;
     border-radius: 0.3em;
     background-color: #3366CC;
     padding: 10px;
     color: white;
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 }
 
